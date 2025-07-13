@@ -508,10 +508,10 @@ nvidia-cuda-nvrtc-cu12==12.9.86 ; sys_platform == "linux" \
     # via
     #   -r build/requirements.in
     #   jax-cuda12-plugin
-nvidia-cuda-runtime-cu12==12.8.57 \
-    --hash=sha256:534ccebd967b6a44292678fa5da4f00666029cb2ed07a79515ea41ef31fe3ec7 \
-    --hash=sha256:75342e28567340b7428ce79a5d6bb6ca5ff9d07b69e7ce00d2c7b4dc23eff0be \
-    --hash=sha256:89be637e3ee967323865b85e0f147d75f9a5bd98360befa37481b02dd57af8f5
+nvidia-cuda-runtime-cu12==12.9.79 \
+    --hash=sha256:25bba2dfb01d48a9b59ca474a1ac43c6ebf7011f1b0b8cc44f54eb6ac48a96c3 \
+    --hash=sha256:83469a846206f2a733db0c42e223589ab62fd2fabac4432d2f8802de4bded0a4 \
+    --hash=sha256:8e018af8fa02363876860388bd10ccb89eb9ab8fb0aa749aaf58430a9f7c4891
     # via jax-cuda12-plugin
 nvidia-cudnn-cu12==9.8.0.87 \
     --hash=sha256:b4b5cfddc32aa4180f9d390ee99e9a9f55a89e7087329b41aba4319327e22466 \
